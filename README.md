@@ -1,2 +1,2 @@
 # N0
-Kẻ mù học viết C O D E
+Kẻ mù học viết C 0 D E
